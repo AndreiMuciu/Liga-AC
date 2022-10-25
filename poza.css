@@ -1,0 +1,11 @@
+.poza1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30em
+}
+.poza2{
+    display: none;
+    margin-left: auto;
+    margin-right: auto;
+}
